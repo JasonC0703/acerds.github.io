@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/acerds/static/css/main.d3f0d5ed.chunk.css",
+    "main.js": "/acerds/static/js/main.417d4eeb.chunk.js",
+    "main.js.map": "/acerds/static/js/main.417d4eeb.chunk.js.map",
+    "runtime-main.js": "/acerds/static/js/runtime-main.9137e20c.js",
+    "runtime-main.js.map": "/acerds/static/js/runtime-main.9137e20c.js.map",
+    "static/js/2.42768833.chunk.js": "/acerds/static/js/2.42768833.chunk.js",
+    "static/js/2.42768833.chunk.js.map": "/acerds/static/js/2.42768833.chunk.js.map",
+    "static/js/3.6d159c7e.chunk.js": "/acerds/static/js/3.6d159c7e.chunk.js",
+    "static/js/3.6d159c7e.chunk.js.map": "/acerds/static/js/3.6d159c7e.chunk.js.map",
+    "index.html": "/acerds/index.html",
+    "service-worker.js": "/acerds/service-worker.js",
+    "service-worker.js.map": "/acerds/service-worker.js.map",
+    "static/css/main.d3f0d5ed.chunk.css.map": "/acerds/static/css/main.d3f0d5ed.chunk.css.map",
+    "static/js/2.42768833.chunk.js.LICENSE.txt": "/acerds/static/js/2.42768833.chunk.js.LICENSE.txt",
+    "static/media/AcerFullBrand.c91e03a4.png": "/acerds/static/media/AcerFullBrand.c91e03a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9137e20c.js",
+    "static/js/2.42768833.chunk.js",
+    "static/css/main.d3f0d5ed.chunk.css",
+    "static/js/main.417d4eeb.chunk.js"
+  ]
+}
