@@ -1,0 +1,19 @@
+[
+    {
+        "name":"bluetooth",
+        "description":"bluetooth bug fix",
+        "version": "5.5.66",
+        "releaseDate": "2021/8/3",
+        "size":"5566 KB",
+        "downloadLink":"https://www.acer.com/ac/zh/TW/content/home"
+    },
+    {
+        "name":"wifi",
+        "description":"firmware",
+        "version": "2.3.5.3",
+        "releaseDate": "2021/8/3",
+        "size":"8.3 MB ",
+        "downloadLink":"https://www.acer.com/ac/zh/TW/content/conceptd-home"
+    }
+
+]

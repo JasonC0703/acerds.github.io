@@ -1,0 +1,68 @@
+{
+    "device":{
+		"modelname":"Acer Aspire A715-71G",
+		"manufacturer":"Acer",
+		"type":"筆記型 (Mobile)",
+		"biosversion":"V1.10"
+	},
+	"operatingsystem":{
+		"name":"Microsoft Windows 10 企業版 (64 位元)",
+		"version":"1909",
+		"osbuild":"10.0.18363"
+	},
+	"processor":{
+		"name":"Intel® Core™ i7-7700HQ CPU @ 2.80GHz",
+		"provider":"GenuineIntel"
+	},
+    "graph":[
+	{
+		"name":"NVIDIA GeForce GTX 3700",
+		"provider":"NVIDIA",
+		"ram":"4 GB"
+	},
+	{
+		"name":"Intel HD Graphics 630",
+		"provider":"Intel Corporation",
+		"ram":"1 GB"
+	}
+	],
+	"audio":[
+	{
+		"name":"Realtek High Definition Audio(SST)",
+		"provider":"Realtek Semiconductor Corp."
+	},
+	{
+		"name":"NVIDIA Virtual Audio Device (Wave Extensible) (WDM)",
+		"provider":"NVIDIA"
+	}
+	],
+	"memory":"24GB",
+	"storage":[
+	{
+		"name":"HGST HTS721010A9E630",
+		"capacity":"931.51 GB"
+	},
+	{
+		"name":"Micron_1100_MTFDDAV512TBN",
+		"capacity":"476.94 GB"
+	}
+	],
+	"networkandio":[
+	{
+		"name":"Realtek PCIe GBE Family Controller",
+		"provider":"Realtek"
+	},
+	{
+		"name":"Intel® Dual Band Wireless-AC 7265",
+		"provider":"Intel Corporation"
+	},
+	{
+		"name":"PANGP Virtual Ethernet Adapter",
+		"provider":"PaloAltoNetworks"
+	},
+	{
+		"name":"Bluetooth Device (Personal Area Network)",
+		"provider":"Microsoft"
+	}
+	]
+}

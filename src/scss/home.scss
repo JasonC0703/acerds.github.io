@@ -1,0 +1,30 @@
+$acer: #83B81A;
+$predator: #00beee;
+
+.homepage {
+    min-width: 800px;
+    text-align:center;
+    margin:0 auto;
+
+    &-download {
+        margin: 50px 0px;
+
+    }
+
+    &-info {
+        margin: 50px 0px;
+    }
+
+    // .tableHead {
+    //     background: $acer;
+    // }
+
+    //for table column line
+    th,td {
+        border: 0.5px solid rgba(224, 224, 224, 1);
+    }
+    //for table column line
+
+
+}
+
