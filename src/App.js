@@ -72,10 +72,12 @@ function App() {
                         </Nav>
                     </SideNav>
                     <main className="main">
-                        <Redirect from="/" to="/home" exact />
-                        <Route path="/home" exact component={props => <Home/>} />
-                        <Route path="/device" component={props => null} />
-                        <Route path="/others" component={props => null} />
+                        <BrowserRouter basename={ process.env.PUBLIC_URL }>
+                            <Redirect from="/" to="/home" exact />
+                            <Route path="/home" exact component={props => <Home/>} />
+                            <Route path="/device" component={props => null} />
+                            <Route path="/others" component={props => null} />
+                        </BrowserRouter>
                     </main>
                 </React.Fragment>
             )}
