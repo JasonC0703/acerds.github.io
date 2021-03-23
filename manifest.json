@@ -1,6 +1,6 @@
 {
-  "short_name": "ADS",
-  "name": "Acer Device Service",
+  "short_name": "ASA",
+  "name": "Acer Support Assistant",
   "icons": [
     {
       "src": "favicon.ico",
